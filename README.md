@@ -1,5 +1,5 @@
 
-![Image](https://media.giphy.com/media/qsGcytIr7JTtI5vmVn/giphy-downsizedgif)
+![Image](https://media.giphy.com/media/qsGcytIr7JTtI5vmVn/giphy-downsized.gif)
 
 ### About Me
 Hello world and welcome! I am currently an aspiring web developer attending Nashville Software School. I have a strong customer service background which fostered a passion for problem solving, team work, and creative solutions. The skills I have acquired are what have also inspired me to delve into the extravagant labrynth that we call code. I will be gaining experience with html, CSS, JavaScript, React, C#, SQL, and .NET. Have a look around and see what I have been working on!
