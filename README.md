@@ -4,11 +4,12 @@
 ### About Me
 Hello world and welcome! I am an aspiring web developer attending Nashville Software School. I have a strong customer service background which fostered a passion for problem solving, team work, and creative solutions. These attributes are what have now inspired me to delve into the extravagant labrynth that we call code. I will be gaining experience with html, CSS, JavaScript, React, C#, SQL, and .NET. Have a look around and see what I have been working on!
 
-### Tech Stack
+### Languages and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennifer-Blue-Williams)](https://github.com/anuraghazra/github-readme-stats)
-[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jennifer-Blue-Williams)](https://github.com/anuraghazra/github-readme-stats)
+[![Blue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jennifer-Blue-Williams)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jennifer-Blue-Williams/Jennifer-Blue-Williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
